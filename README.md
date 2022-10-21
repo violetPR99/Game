@@ -2,9 +2,9 @@
 
 ## goal
 
-get the cards all right:)
+get the cards all right:).
 
 
 ##Controls
 
-just click cards and match them 
+just click cards and match them.
